@@ -1,4 +1,19 @@
-# tags
-tESTINGi
+<<<<<<< HEAD
+ting is at done
+tESTING
 
-new------------------------------------------
+hrrrrrrrrrrrrrrrrrrrrrrrreo
+
+hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+xxxxxxoxoxoxoxooxxxxxxxxxxxxxxxxxxxxxxxxxxxxojjjjjjjjjjj
+
+
+
+
+
+
+
+
+
