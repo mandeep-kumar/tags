@@ -1,5 +1,5 @@
 #!/bin/bash
-echo ${BUILD_NUMBER}
+echo ${TAG}
 # Linux Shell Scripting Tutorial 1.05r3, Summer-2002
 #
 # Written by Vivek G. Gite <vivek@nixcraft.com>
