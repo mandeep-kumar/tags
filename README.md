@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ting is at done
 tESTING
 
@@ -16,4 +17,3 @@ xxxxxxoxoxoxoxooxxxxxxxxxxxxxxxxxxxxxxxxxxxxojjjjjjjjjjj
 
 
 
-iiiiiiiiiiiiiiiiiiiiii
